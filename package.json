@@ -1,0 +1,11 @@
+{
+  "name": "airtable-random",
+  "version": "0.0.1",
+  "description": "-",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

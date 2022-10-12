@@ -1,0 +1,13 @@
+{
+  "name": "Airtable Random",
+  "website": "https://github.com/danielarmengolaltayo/airtable-random",
+  "repository": "https://github.com/danielarmengolaltayo/airtable-random",
+  "success_url": "/",
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
